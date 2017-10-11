@@ -1,4 +1,4 @@
-package se.karlsson.thousandtwentyfive;
+package se.sigmaitc.rollinbistro;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

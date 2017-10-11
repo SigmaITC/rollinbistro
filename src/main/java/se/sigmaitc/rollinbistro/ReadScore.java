@@ -1,4 +1,4 @@
-package se.karlsson.thousandtwentyfive;
+package se.sigmaitc.rollinbistro;
 
 import java.io.IOException;
 import java.util.Properties;

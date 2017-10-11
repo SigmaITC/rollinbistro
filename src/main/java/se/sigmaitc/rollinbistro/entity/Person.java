@@ -1,4 +1,4 @@
-package se.karlsson.thousandtwentyfive.entity;
+package se.sigmaitc.rollinbistro.entity;
 
 import java.io.Serializable;
 

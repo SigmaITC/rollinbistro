@@ -1,4 +1,4 @@
-package se.karlsson.thousandtwentyfive.controller;
+package se.sigmaitc.rollinbistro.controller;
 
 import javax.annotation.Resource;
 
@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import se.karlsson.thousandtwentyfive.ReadScore;
+import se.sigmaitc.rollinbistro.ReadScore;
 
 @RestController
 public class ScoreController {

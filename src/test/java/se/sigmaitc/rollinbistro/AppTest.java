@@ -1,4 +1,4 @@
-package se.karlsson.thousandtwentyfive;
+package se.sigmaitc.rollinbistro;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

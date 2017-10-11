@@ -1,4 +1,4 @@
-package se.karlsson.thousandtwentyfive;
+package se.sigmaitc.rollinbistro;
 
 import static org.junit.Assert.assertTrue;
 
@@ -9,7 +9,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
-import se.karlsson.thousandtwentyfive.controller.ScoreController;
+import se.sigmaitc.rollinbistro.controller.ScoreController;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest

@@ -1,4 +1,4 @@
-package se.karlsson.thousandtwentyfive.controller;
+package se.sigmaitc.rollinbistro.controller;
 
 import java.util.List;
 
@@ -9,8 +9,8 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import se.karlsson.thousandtwentyfive.entity.Book;
-import se.karlsson.thousandtwentyfive.repository.BookRepository;
+import se.sigmaitc.rollinbistro.entity.Book;
+import se.sigmaitc.rollinbistro.repository.BookRepository;
 
 
 @RestController
